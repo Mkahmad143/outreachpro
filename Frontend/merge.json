@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gmail-merge-app",
+  "private_key_id": "9385d0acf06810dab9205487dd5caf80aa8e9970",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDryGwwhIJ57k7z\nmel3jx/0QOqRRcy7WcwmPGLg9JudM0ld8uNwFtYXnid902aXonpxfHSbbXtbL1Wb\nGR5UfkA3rfAqEvR8blUHaDGsnZ/wschSa4EbLlB7eMUOeVAvYaeENDrOGEgI2XYX\nbB3BPaP14H1CBPu2O3chICjm6AngYKp4j0WSJu40ZoXiD1NowfG0P87Y5rXIZVkR\nbCqxInCO1yRmg40sb+3w0VeYwwnvzrVLW+Q76w0gttheH3eMnFBfF1OL/5LT7dRQ\nA10OYaGIdyHufXy1MATC8cei2NkC8jtsFBw/OULtMcei5l8f6DESAbjtdqWSfu72\nIk4FXs5nAgMBAAECggEAFuEHLoYNKyERZC3xK6V7EkvM9x/GHVU6AWkmpxwqkCHO\njWE+Pz2CtMlR8lxgaM0JWJhyWt/6x6mw2DCjHXZ1a3G4tjx0oNu2ldYUdo2CXEFu\nu3YBvHjNXSMmQUtK7pi+lTjZjpoTPgNBTvCHdUgymsSXzZ+Hf/KxPUj47xRhBkvr\nT7TtJle80BT6w/IMp03hL8Om7BBLO03S0YJTohyhBm2QSechGlheOWQ8AZ80cJB/\nwZ2On8rCFe3/h2H9uZsBAAkWJcAqAnnR/YbePuN+nTTbYQgtKJNeJnYfm2aSvPbH\nG/iRSRHzG5pavmMN1iKCwjbx7e/ER/Eu4JXzH5PUgQKBgQD4wh8Zq4cGQJt8XEA6\nShrjpW8YJtuHXtwi8SL0/FTc5+gmtolqjWkTMGqFX9FYa+kV/VHvh4GFAK99Ljdq\nKaXQL8xfhJEvjuklUek5NXF/CUkjodWNZNGdm0JaOTIvxrBq+wwx3pevyXBXczwD\nqa90pktetd/clgxHteTyS/NYYQKBgQDypZoHpXtcZ/rM1Vk0fivn9qDIGPE0VSai\nLDWSmVaI7acXlHcu05GGtQfy+De8a6AMIAOPGTX0oIWX5BV4S5yt2L1Ftu8U7tL2\nWiVd/I+6jhGaVdoqmAeb7H+MDZeZjeNzopy7GtvAKeVptyXTgqj8o8mCJGmi3LiV\nvE00Nk77xwKBgQCN3DZcL0N7P1DsZLeEBkq7U9a9ETvUQTaM/rMOvu+uYtozaZmI\nGEi51ryIfxIluLReA+68CKzGKpPpcXfMpR+YUAne1vztADTZQZMdOusUpTj+hwX/\n8mTP2oDGbyO9tzNYbv6PWf9rEhds55xsAlK61TLaOiIF69Po+UQtIT8PQQKBgEhX\njROoh53mNkTper4Gu+pdglQF86vJk0oYaiR56O3MBNwn3FyuoR2LTYJn9J4NbFsR\nFF6OgqKbVRkS3D/QMzc1fkCRqLgR9/2QpMFfsi5JewALho7aYrJfESvdRYx3XA+2\ntImoGUoyc35QJ0vnEaC46DQPzRrMOZAS4uWlJ2kzAoGBANh5LLHDkclp218VL9ua\naFTtnLfEbzxk23M9JaVsy76Vpis0hxr4HFLUydyICuPI2aobPjrGfSqTRN71UK5K\n05zW8kNefQKK5LVwZItN0/7rS2gFkZmCPYemXDawwbPKzS76c7ERUKUelvBSWowa\nocQhvvTYh8u5RjB2zoggdfyI\n-----END PRIVATE KEY-----\n",
+  "client_email": "mergo-499@gmail-merge-app.iam.gserviceaccount.com",
+  "client_id": "106244207173959460010",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mergo-499%40gmail-merge-app.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
