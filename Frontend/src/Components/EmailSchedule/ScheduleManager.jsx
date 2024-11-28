@@ -24,7 +24,7 @@ const saveScheduleEmail = async (
   };
   console.log(data);
   const res = await axios.post(
-    "https://outreachpro-backend.vercel.app//schedule/scheduleEmails",
+    `${import.meta.env.VITE_BASE_URL}/schedule/scheduleEmails`,
     data
   );
   if (res.ok) {

@@ -1,5 +1,6 @@
 import { gapi } from "gapi-script";
 import axios from "axios";
+
 export const initializeGmailAPI = () => {
   if (window.gapi.auth2 && window.gapi.auth2.getAuthInstance()) {
     return Promise.resolve(); // Return immediately if already initialized
@@ -43,7 +44,7 @@ export const sendSingleEmail = async (recipient, subject, message, delay) => {
       delay,
     };
     const response = await axios.post(
-      "https://outreachpro-backend.vercel.app//mails/sendSingleEmail",
+      `${import.meta.env.VITE_BASE_URL}/mails/sendSingleEmail`,
       data
     );
     // console.log(response)
@@ -100,7 +101,7 @@ export const sendEmail = async (
       accessToken: accessToken,
     };
     const response = await axios.post(
-      "https://outreachpro-backend.vercel.app/mails/sendBulkEmail",
+      `${import.meta.env.VITE_BASE_URL}/mails/sendBulkEmail`,
       data
     );
 

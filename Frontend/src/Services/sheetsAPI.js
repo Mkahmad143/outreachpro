@@ -30,7 +30,7 @@ export const createSpreadsheet = async (accessToken, title) => {
       title,
     };
     const res = await axios.post(
-      `https://outreachpro-backend.vercel.app/sheets/createSpreadSheet`,
+      `${import.meta.env.VITE_BASE_URL}/sheets/createSpreadSheet`,
       data
     );
     sessionStorage.setItem("sheet_id", res.data.spreadsheetId);
