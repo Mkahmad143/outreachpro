@@ -26,7 +26,7 @@ const app = express();
 // Allow specific origin
 app.use(
   cors({
-    origin: "https://outreachpro-tawny.vercel.app",
+    origin: "*",
     methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
     allowedHeaders: ["Content-Type", "Authorization"],
   })
